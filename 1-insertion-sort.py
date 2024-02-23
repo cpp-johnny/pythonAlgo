@@ -1,3 +1,6 @@
+# Insertion Sort
+# running time of O(N^2) (aka dogshit) but its simple to use
+
 # arr = [2, 6, 5, 1, 3, 4]
 # how to become [1, 2, 3, 4, 5, 6]?
 
